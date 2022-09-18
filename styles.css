@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #3AB4F2;
+}
+
+.navbar {
+    background-color: #0078AA;
+}
+
+.card {
+    width: 18rem;
+    margin: auto;
+}
+
+.body-darkbg {
+    background-color: #2B4865;
+}
+
+.navbar-darkbg {
+    background-color: #002B5B;
+}
+
+.navbar-brightlogo {
+    color: white;
+}
